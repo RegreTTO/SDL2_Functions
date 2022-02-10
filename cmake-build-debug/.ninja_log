@@ -1,0 +1,11 @@
+# ninja log v5
+3	734	6662196623667805	CMakeFiles/sdl2.dir/main.cpp.obj	2e111a73702130dc
+1	210	6662174261819551	build.ninja	3c8ead9deda6d010
+696	842	6662197823064355	sdl2.exe	cc709dd6e3a54f93
+3	695	6662197821634359	CMakeFiles/sdl2.dir/itc_sdl_lib/itc_sdl1.cpp.obj	69bc6f4229fc084d
+15	739	6662198225876701	CMakeFiles/sdl2.dir/itc_sdl_lib/itc_sdl1.cpp.obj	69bc6f4229fc084d
+3	763	6662198226096736	CMakeFiles/sdl2.dir/main.cpp.obj	2e111a73702130dc
+764	918	6662198227636707	sdl2.exe	cc709dd6e3a54f93
+15	720	6662198730072140	CMakeFiles/sdl2.dir/itc_sdl_lib/itc_sdl1.cpp.obj	69bc6f4229fc084d
+3	759	6662198730472143	CMakeFiles/sdl2.dir/main.cpp.obj	2e111a73702130dc
+759	905	6662198731902135	sdl2.exe	cc709dd6e3a54f93

@@ -1,0 +1,3 @@
+D:/Programming/Cpp Projects/SDL2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Cpp Projects/SDL2/cmake-build-debug/CMakeFiles/sdl2.dir
+D:/Programming/Cpp Projects/SDL2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
