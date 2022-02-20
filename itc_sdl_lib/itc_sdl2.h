@@ -6,8 +6,9 @@
 
 using namespace std;
 
-namespace it_sdl{
-	void it_line(SDL_Renderer* renderer, int x0, int y0, int x1, int y1);
-}
+namespace it_sdl {
+	void it_line(SDL_Renderer *renderer, int x0, int y0, int x1, int y1);
 
+	void it_circle(SDL_Renderer *renderer, int x0, int y0, int r);
+}
 #endif //SDL2_ITC_SDL2_H
