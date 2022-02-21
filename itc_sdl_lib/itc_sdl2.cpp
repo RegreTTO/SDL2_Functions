@@ -2,7 +2,6 @@
 
 namespace it_sdl {
 	void it_line(SDL_Renderer *renderer, int x0, int y0, int x1, int y1) {
-		double tg = (double) (y1 - y0) / (x1 - x0);
 		bool steep = abs(y1 - y0) > abs(x1 - x0);
 		if (steep) {
 			swap(x0, y0);
